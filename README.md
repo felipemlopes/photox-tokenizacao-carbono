@@ -8,7 +8,7 @@
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS%20S3%20%2F%20SQS-232F3E?logo=amazonwebservices&logoColor=white)
 
-> 🔒 **Repositório vitrine.** O código-fonte é proprietário e fica privado. Aqui estão o problema, a arquitetura e as decisões técnicas. Demonstração técnica disponível sob solicitação.
+> **Repositório vitrine.** O código-fonte é proprietário e fica privado. Aqui estão o problema, a arquitetura e as decisões técnicas. Demonstração técnica disponível sob solicitação.
 
 ## O problema
 
